@@ -1,0 +1,9 @@
+[submodule "themes/papermod"]
+	path = themes/papermod
+	url = https://github.com/cydave/zola-theme-papermod
+[submodule "themes/datum"]
+	path = themes/datum
+	url = https://github.com/davidmreed/datum
+[submodule "themes/themes/datum"]
+	path = themes/themes/datum
+	url = https://github.com/davidmreed/datum
