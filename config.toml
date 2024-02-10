@@ -16,3 +16,7 @@ highlight_code = false
 
 [extra]
 site_title = "Non-Skating Official Guides"
+
+[extra.content_types.guide]
+display_name = "Guide"
+card_type = "article"

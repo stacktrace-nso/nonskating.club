@@ -1,0 +1,356 @@
++++
+title="Jam Timer"
+date="2024-02-09"
+template="guide.html"
+[extra]
+author="David Reed / Stacktrace"
++++
+
+## Introduction
+
+The Jam Timer is the conductor of the game. They are responsible for starting, stopping, and timing the different segments of gameplay, such as jams, periods, and time outs. Jam Timers are responsible for no paperwork.  
+
+As with all officiating positions in roller derby, it’s important to be aware that Jam Timing is a combination of *what the rules explicitly say*, *how the rules are interpreted by the community*, and *common practices that are not rule-driven*.
+
+Read through [Section 5, Officiating](https://rules.wftda.com/05_officiating.html#officiating-staffing) of the Rules. Note that the words “Jam Timer” do not appear. The vast majority of what we do with Jam Timing is an *implementation* of the WFTDA Rules, but is not explicitly specified by the WFTDA Rules.
+
+You may experience variation in Jam Timing procedures from region to region and league to league. That’s one reason why it’s important to understand the rules that govern your work as a Jam Timer and _why_ you take specific actions that draw from convention or best practice. Throughout this guide, we’ll cite the rules and other officiating documents to support specific requirements for the Jam Timer position.
+
+You should assume that everything else we discuss either follows as a direct consequence of the rules, or is _convention_ directed towards safely, clearly, and consistently applying the rules. Where we present a convention that we believe to be less widespread, we’ll explicitly call it out; however, bear in mind that your region’s officiating conventions may be different from ours in ways we do not know.
+
+### Resources
+
+- [The Rules of Flat Track Roller Derby](https://rules.wftda.com/), in particular
+  - [Section 1.1, Timing](https://rules.wftda.com/01_params.html#timing).
+  - [Casebook Section 4.2.3, Interfering with the Flow of the Game](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game).
+- [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)
+  - Be aware that this document has not been updated since 2017. Where it conflicts with the Rules, such as in regard to the length of an Overtime Jam lineup period, the Rules override.
+- [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)
+- [WFTDA Risk Management Guidelines](https://static.wftda.com/insurance/wftda-risk-management-guidelines.pdf)
+  - Be aware of the definitions of zones and safety requirements, located on pages 6-8. These definitions can assist you in determining when an unsafe situation occurs that would require you to stop gameplay.
+- [WFTDA Online Learning: Intro to Score & Clocks Training for Officials](https://learning.wftda.org/courses/intro-to-score-clocks-training-for-officials)
+- [JRDA Rules, Casebook, and Code of Conduct](https://www.juniorrollerderby.org/rules)
+
+## Equipment
+
+Standard equipment for a Jam Timer includes:
+
+- A Fox 40 Classic whistle.
+- Two stopwatches.
+
+Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US and are an important purchase for an official. Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
+
+Jam Timing in a face mask is possible. You may choose to use a push-button electronic whistle, but it is difficult to produce the required cues effectively. Alternately, you can place your whistle inside your mask. You can either drop the whistle out of your mask while not issuing a whistle cue or retain the whistle inside your mask in your cheek area to allow you to speak.
+
+You should Jam Time with two stopwatches to ensure that you’re able to time each segment of gameplay.
+
+- One is your Period Clock, counting down from 30:00.
+- The other is your jam, lineup, and timeout clock.
+  - You can set this watch to count up from 00:00, which makes it easy to time jams (2:00), lineups (00:30), and timeouts (1:00). However, it won’t match the jam time readout on the scoreboard, which counts down from 2:00.
+  - Alternately, you can use this watch in a countdown mode (from 2:00) to match the format of the scoreboard. This can require you to do more mental math as you use this clock to time other game segments.
+ 
+Below, we’ll discuss how you use these clocks throughout the game.
+
+One of the most important things to know about Jam Timing is that your clocks are _backups_. The official game time is always what is shown on the scoreboard. Your clocks provide critical backup in the case that the scoreboard does not function correctly, or that a disconnect between you and the scoreboard operator results in an incorrect time being displayed. ([Rules 1.4](https://rules.wftda.com/singlehtml/index.html#game-information))
+
+Your clocks will be the primary time only for non-regulation games or scrimmages played without a scoreboard.
+
+Always take action, including giving cues, based on the visible scoreboard clocks. Be ready to take the timing of a segment of gameplay on your clocks or provide corrections to the scoreboard operator if a malfunction occurs.
+
+## The Basic Routine
+
+The jam timer works in cycles that follow the structure of a derby game. Starting and stopping periods, jam, and time outs, one after another, is the basic routine of the jam timer. In this section, we organize the basic routine into what the jam timer does as each of those game segments starts and ends.
+
+---
+
+**At the start of the game**, the Jam Timer executes the following steps.
+
+**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+
+1. Confirm that the Head Referee is ready to begin the game, and visually confirm that officials are in position.
+2. Enter the **Before each jam that does not directly follow another jam** sequence.
+
+---
+
+**Before each jam that directly follows another jam,** the Jam Timer executes the following steps.
+
+**Starting state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Lineup Period
+
+1. Complete the pre-jam checks (see below) during the 30-second lineup period.
+2. At 00:25 into the lineup period (5 seconds prior to jam start) as displayed on the scoreboard, issue the Five Seconds verbal cue and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
+
+   The cue should be issued so that it falls _exactly_ at 5 seconds prior to jam start. Typically this means initiating the cue at around 24.5 seconds. Practice aligning your word “Five” with the scoreboard clock striking 25 seconds.
+3. Stop and reset your Jam Clock so that you're ready to begin timing the jam.
+4. At 00:30 into the lineup period as displayed on the scoreboard, give the Jam Start whistle signal and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
+
+   This cue should also be issued so that it falls at _exactly_ 30 seconds.
+5. Start your Jam Clock to time the jam.
+6. Move to a position in the track center where you are out of the way of referees and other NSOs.
+
+**Ending state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+
+---
+
+**Before each jam that does not directly follow another jam**, such as a resumption of play after a stoppage or the first jam of a period, the Jam Timer executes the following steps.
+
+**Starting state:** ⏱ Period Clock: Stopped, ⏱ Jam Clock:  Stopped or timing Team Time Out
+
+2. Blow a Rolling Whistle cue to start a lineup period.
+3. Reset (if needed) and start the Jam Clock to time the lineup period.
+4. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
+5. Complete the pre-jam checks during the lineup period.
+6. If teams are in position and officials are in position and ready (including you), go _directly_ to issuing the Five Seconds verbal cue and hand signal. You _may_ allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
+7. If the scoreboard is displaying a lineup period clock (it may not), reset your Jam Clock to be ready to time the jam.
+8. Five seconds after the Five Seconds cue, regardless of when it was issued, give the Jam Start whistle signal and hand signal. If the scoreboard is displaying a lineup period clock, make sure to give the cue according to that clock.
+9. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
+10. Move to a position in the track center where you are out of the way of referees and other NSOs.
+
+**Ending state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+
+---
+
+**During each jam**, the Jam Timer executes the following steps.
+
+**Starting state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+
+1. Monitor the jam clock. If the jam clock reaches two minutes, the Jam Timer calls off the jam by blowing two rounds of four short whistle blasts and repeatedly touching their hips.
+2. Listen for jam call-off whistles from the referees. The Jam Timer joins in the echo of jam call-off. For example, after hearing the initial set of four short whistle blasts to call the jam, the Jam Timer blows four short whistle blasts twice along with the other referees.
+3. Maintain awareness for any of the situations discussed under “What to Watch During the Jam”.
+
+**Ending state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam or Lineup Period (when Jam ends)
+
+---
+
+**At the end of each jam,** the Jam Timer executes the following steps.
+
+**Starting state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+
+1. Starts a stopwatch to time the lineup period, as a **backup** to the scoreboard.
+2. Returns to their position near the Pivot Line area.
+
+**Ending state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Lineup Period
+
+---
+
+**At the end of the first period**, the Jam Timer executes the following steps.
+
+**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+
+1. Checks for any requests for an Official Review.
+2. Blows a rolling whistle to indicate the end of the period.
+
+**Ending state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+
+
+---
+
+**At the end of the game,** the Jam Timer executes the following steps.
+
+**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+
+1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (Note: this is specified under “Rolling Whistle” in the Officiating Cues, Codes, and Signals document, not in the Rules).
+2. Wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
+3. Blow a Rolling Whistle to indicate the end of the game.
+
+**Ending state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+
+--- 
+
+**During a stoppage of play**, the Jam Timer executes the following steps.
+
+**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped or timing Team Time Out
+
+1. Ensure Watch 1 (the period clock backup) is stopped immediately at the fourth whistle of the first set of four whistle blasts that marked the stoppage of play.
+2. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
+3. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
+
+---
+
+## In Depth Procedures
+
+### Final 30 Seconds of the Period
+
+There are special rules for what happens if a jam ends with less than 30 seconds remaining on the Period Clock. In this situation, the Period Clock will expire before the jam-starting whistle. A jam should not start in this situation ([Rules 1.1](https://rules.wftda.com/01_params.html#timing)), _unless_ a Time Out or Official Review is called.
+
+If a Team Time Out or Official Review is called before the expiration of the Period Clock, you’ll start a new jam following that stoppage of play like any other. The period clock will resume at the jam-starting whistle.
+
+If an Official Time Out was called, there are three possible outcomes.
+
+1. The officials may exercise discretion to run another jam.
+2. If the officials decline to do so, the teams may call a Time Out or Official Review, in which case another jam will be run.
+3. If both the officials and the teams decline to take action, the game will end when the period clock expires.
+
+As the Jam Timer, you simply wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate.
+
+Current versions of the CRG Scoreboard will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning.
+
+### Time Outs and Official Reviews
+
+Each team’s Captain and Designated Alternate can use their team’s Time Outs and Official Review. Time Outs and Official Reviews must be called when a jam is not currently running.
+
+The officials may call an Official Time Out at any time a jam is not running, and may stop a jam to call an Official Time Out if needed. (This typically happens due to skater injury or another safety concern).
+
+Several conditions must be met for a team’s Time Out or Official Review request to be valid. 
+
+- The person must use the correct signal.
+- The person signalling is the Captain or Designated Alternate. ([Rules 1.3.1-2](https://rules.wftda.com/singlehtml/index.html#team-timeouts))
+- The person signalling has the required C or A visible on their person. (TODO citation)
+- The person signalling is not currently penalized. ([Rules 1.3.1-2](https://rules.wftda.com/singlehtml/index.html#team-timeouts))
+- The team has an Official Review or Time Out remaining. ([Rules 1.3.1-2](https://rules.wftda.com/singlehtml/index.html#team-timeouts))
+
+When a Time Out or Official Review is requested and all preconditions are met:
+
+1. Blow four short whistle blasts to signal stoppage of the period clock.
+2. Stop your Period Clock.
+3. If this is a Team Time Out, reset your Jam Clock and start timing the Time Out as a backup to the scoreboard.
+4. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage. Make sure that the scoreboard operator can see your hand cue. (TODO citation)
+
+If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
+
+1. If you prefer or if your local convention expects it, you may use non-standard cues during the resumption of play to ensure that skaters clearly understand your actions. Some Jam Timers find this helps in situations where skaters misinterpret the rolling whistle as a jam-start whistle.
+  - Give the nonstandard hand signal for “this whistle starts a lineup period”. Stand on the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”. 
+  - (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
+2. Execute the steps given under **Before each jam that does not directly follow another jam**.
+
+#### Illegal Time Out and Official Review Calls
+
+Rarely, it may occur that the jam timer or another official incorrectly grants a Team Time Out or Official Review in a circumstance where the preconditions are not met, such as in response to a signal from a team staff member who is not wearing the C or A symbol.
+
+See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game) scenario G and [Casebook 4.2.4](https://rules.wftda.com/casebook/04_c_penalties.html#other-illegal-procedures) scenario A. This situation will result in an Official Time Out and a Delay of Game or Illegal Procedure penalty to the skater who requested the Time Out or Official Review, or to the captain if the requestor is not a skater.
+
+#### Correcting the Period Clock
+
+During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. Hand signals for this process are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
+
+If your backup Period Clock and the official Period Clock diverge, and you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected.
+
+Doing so is disruptive to the flow of gameplay, like all official time outs. Use your judgement to decide whether or not you need to take this action. If the situation makes a small time divergence have an impact on gameplay, such as in a close-scoring game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action _not_ to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
+
+### Overtime Jams
+
+The rules for Overtime Jams are presented in [Rules 1.5.1](https://rules.wftda.com/01_params.html#overtime).
+
+As Jam Timer, there is nothing you need to do differently for an Overtime Jam relative to a normal Jam. Since there is no Lead Jammer in an Overtime Jam, all Overtime Jams run for two minutes and are terminated by the Jam Timer.
+
+However, it’s important to be aware that previous editions of the Rules specified different timing for Overtime Jams: Overtime Jams had one-minute lineup periods. Because Overtime Jams are so rare, many officials do not get to practice them and may recall the older rules.
+
+### Sudden Scoring (JRDA Only)
+
+JRDA’s Sudden Scoring rules apply when, at halftime, the score differential is 150 points or more and the trailing team has 25 points or fewer.
+
+When Sudden Scoring is in effect for Period 2, the procedures for the Jam Timer change:
+
+1. Jams run for up to **1:00** instead of 2:00.
+2. No Lead Jammer is assigned, so that all jams are whistled off by the Jam Timer.
+3. Overtime Jams do not change and remain 2:00 long.
+
+### Injury Call-Offs (JRDA Only)
+
+JRDA rules allow for a special “continuation” of a jam that was terminated due to injury in a narrow set of circumstances. Such a continuation jam can occur when all of these conditions are met:
+
+1. The jam is called off due to injury.
+2. The injury was not the result of penalized contact.
+3. The opposing team (to the injured player’s team) had Lead at the time of call-off.
+4. A continuation has not already occurred for this jam.
+
+A continuation entails a new lineup period (**Before each jam that does not directly follow another jam**), with all of the same players and same positions. The jam number remains the same.
+
+The continuation runs for the _balance of the original jam clock_. If the jam was called off due to injury at 1:15, the resumed jam may run for up to 0:45.
+
+Be aware that Injury Call-Offs are a relatively new rule that is not applied often, due to its limited circumstances of use. Not all officials may know the fine points of the rule.
+
+## Calling Penalties
+
+The Rules ([5.4, Assessing Penalties](https://rules.wftda.com/05_officiating.html#assessing-penalties)) allow NSOs to assess penalties that are relevant to their position unless explicitly prohibited by the Head Referee. There is no specific list of which penalties are relevant to which role. A Jam Timer can expect to assess a **Delay of Game** and may rarely have cause to assess a **Misconduct** or **Illegal Procedure**.
+
+The circumstances where these penalties might be assessed are described in the “what to check” sections below.
+
+## Situational Awareness and Responsibilities
+
+The Jam Timer role requires you to maintain awareness of the state of the game and what’s happening on and off the track. This section includes guidance on what you need to know, watch, and verify at each stage of the game.
+
+### What to Check Before the Game
+
+- Who are the captains and alternates?
+  - If you are not the Head NSO, you can ask the Head NSO for this information. They will typically meet the captains and alternates during a pre-game meeting.
+  - You need to know this so that you can respond appropriately to time out and official review requests.
+- Familiarize yourself with the facility layout.
+  - Where is the scoreboard? Can you see it from your pivot-line position?
+  - Can you see the team bench areas, where time-out calls originate?
+  - Can you see the medic location?
+  - You need to know this information to meet your responsibilities described under **What to Check Before Every Jam**.
+- Who is the scoreboard operator? How will you communicate timing adjustments to them?
+- Who is the Head Referee? Does the Head Referee want you to call an Official Time Out if referees are out of position?
+
+### What to Check Before Every Jam
+
+None of these checks are the _sole_ responsibility of the Jam Timer. The referees, in particular, are also involved in monitoring and reacting to the situations described below, and may take action before the Jam Timer. 
+
+The Jam Timer should be prepared to act as the first responder to the situations listed as primary responsibilities, while acknowledging that another official may observe and respond to the situation. The Jam Timer should use their best efforts to watch for secondary responsibilities alongside all other members of the officiating crew.
+
+#### Primary Responsibilities
+
+- Are the right skaters present on the track *at the jam-start whistle*?
+  - Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so in place of starting the jam.
+  - Know what it means for a skater to be on the track. References:
+    - [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions)
+    - [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game)
+  - Do both teams have a jammer on track or in the box?
+  - Are enough blockers on the track to form a pack?
+  - **If the Penalty Box Manager is signaling for a skater to report to the box**: Is that skater on the track?
+    - If no, whistle an Official Time Out and penalize that skater.
+  - Is the Penalty Lineup Tracker indicating that a skater is on track who is not eligible to skate?
+  - **If yes**:
+    - Whistle an Official Time Out.
+    - Assess a Delay of Game penalty to the captain of the team failing to field the right skaters.
+   - Is either team fielding a number of skaters significantly in excess of what is allowed?
+     - Whistle an Official Time Out.
+   - Assess a Misconduct to the Captain ([Casebook C4.3.M](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct)).
+- Are the medics present and attending to the game? At least one medic must be available to treat skaters at all times, per the WFTDA Risk Management Guidelines (section 5.2).
+  - **If no**:
+    - Whistle an Official Time Out. Ask the Head Referee or Head NSO to have the medics located.
+- Is either team signaling for a Team Time Out or Official Review, _and_ are all the conditions required for the TO or OR met (see **Time Outs and Official Reviews**)?
+  - **If yes**: execute the steps under **Time Outs and Official Reviews**.
+  - Note that this responsibility calls for you to maintain awareness of which team has Time Outs or Official Reviews remaining.
+- Are any officials unready to start the jam?
+  - Are any officials signaling for an Official Time Out?
+  - Are any officials out of position? (Note that some Head Referees do not wish an Official Time Out called if _they_ are out of position. See **What to check before the game**). 
+  - Are any officials engaged in a process that may impede their ability to work the upcoming jam?
+  - **If yes**: Whistle an Official Time Out.
+
+#### Secondary Responsibilities
+
+- Are there any impediments or safety concerns around the track area? (WFTDA Risk Management Guidelines section 3)
+  - Persons under 18 located outside of Zone F.
+  - Persons, such as spectators, in the play area who are not supposed to be there. 
+  - Issues with the track surface, boundary lines, or barriers that pose a safety hazard.
+  - **If yes**: whistle an Official Time Out. Work with the Head Referee and/or Head NSO to resolve the situation.
+
+### What to Watch During the Jam
+
+The penalty-related events below will typically be handled by the referees. However, if a referee does not have eyes on the situation or are not acting expeditiously, the Jam Timer may intervene. 
+
+Typically, the Jam Timer would call an Official Time Out and ask a referee to address the situation. However, unless forbidden by the Head Referee, the Jam Timer is empowered to directly assess relevant penalties.
+
+- Scoreboard is not running or is completely incorrect.
+  - Your response to this situation will vary based on the specific malfunction and the context. A local regulation game and a high-level sanctioned tournament will have different tolerance levels for this type of malfunction and any impact it may have on the game. You may stop the jam and call an Official Time Out to address the issue.
+- Obscene language audible to the audience or directed at an official.
+  - Assess a Misconduct penalty. See [Casebook C4.3.F](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct)
+  - See below for special notes on JRDA games.
+- Hateful or bigoted remarks.
+  - Assess a Misconduct penalty and refer the skater to the Head Referee for expulsion. See [Casebook C4.3.L](https://rules.wftda.com/casebook/04_c_penalties.html#penalties-for-unsporting-conduct-misconduct).
+- Injured skaters ([Rules 5.2](https://rules.wftda.com/singlehtml/index.html#duties))
+  - Whistle the jam dead and go into an Official Time Out.
+  - Call for the medics to attend the skater.
+ 
+#### Juniors Games
+
+JRDA conduct rules are considerably stricter than WFTDA. Review [JRDA Rules](https://www.juniorrollerderby.org/rules) section J4.3.1-2 for a description of conduct violations you might observe.
+
+All profanity merits a Misconduct penalty in JRDA games, even if non-directed. See [JRDA Casebook JC4.3.1.B](https://www.juniorrollerderby.org/rules) and [JRDA Code of Conduct 5.8](https://www.juniorrollerderby.org/rules).
+ 
+## Additional Responsibilities 
+
+The Jam Timer role is a good one for the Head NSO, because it places the HNSO in the center of the track and allows them to observe the other officials at work.
+
+If the number of available officials is badly constrained, it is possible for the Jam Timer to also act as solo Penalty Tracker. (This combination will only happen in Regulation, not Sanctioned, games, due to the sanctioning requirement of lineup tracking). Other combinations are less viable. A Jam Timer will often provide informal support as a Penalty Wrangler for less-experienced Penalty Lineup Trackers.

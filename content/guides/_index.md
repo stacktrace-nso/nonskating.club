@@ -6,6 +6,6 @@ sort_by="title"
 weight=2
 [extra]
 include_in_timeline = true
-content_type = "article"
+content_type = "guide"
 +++
 
