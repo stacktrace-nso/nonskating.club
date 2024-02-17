@@ -16,5 +16,8 @@ Here's how to get started.
 2. Navigate to the [repository](https://github.com/davidmreed/nonskating.club/tree/main/content/guides) that holds our content.
 3. Click on a file that you'd like to edit. If you'd like to add a new guide, click the **Add file** button.
 4. Write! If you're new to Markdown, the way we format documents, don't worry about it - just focus on getting the words where you want them. Editors will help you in a later step. If you want to learn about Markdown, try [The Markdown Guide](https://www.markdownguide.org/). You'll start to see Markdown everywhere on the web!
-5. 
+5.
+
+
+## Translation
 

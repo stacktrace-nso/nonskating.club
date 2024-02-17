@@ -10,7 +10,12 @@ author="David Reed / Stacktrace"
 
 The Jam Timer is the conductor of the game. They are responsible for starting, stopping, and timing the different segments of gameplay, such as jams, periods, and time outs. Jam Timers are responsible for no paperwork.
 
-As with all officiating positions in roller derby, it’s important to be aware that Jam Timing is a combination of *what the rules explicitly say*, *how the rules are interpreted by the community*, and *common practices that are not rule-driven*.
+As with all officiating positions in roller derby, it’s important to be aware that Jam Timing is a combination of multiple sources of practice:
+
+- What the rules explicitly say.
+- What supporting documents from WFTDA, MRDA, and JRDA say.
+- How the rules are interpreted by the community.
+- Common practices that are not rule-driven.
 
 Read through [Section 5, Officiating](https://rules.wftda.com/05_officiating.html#officiating-staffing) of the Rules. Note that the words “Jam Timer” do not appear. The vast majority of what we do with Jam Timing is an *implementation* of the WFTDA Rules, but is not explicitly specified by the WFTDA Rules.
 
@@ -38,7 +43,7 @@ Standard equipment for a Jam Timer includes:
 - A Fox 40 Classic whistle.
 - Two stopwatches.
 
-Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US and are an important purchase for an official. Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
+Like referees, Jam Timers should expect to supply their own whistle. Fox 40 Classic whistles cost roughly $6US. Other models of whistle are *not* acceptable. Leagues may provide stopwatches, but Jam Timers often choose to use their own stopwatches based on the model they are most comfortable with. If you don’t have a preference, Robic’s [Silver 2.0](https://robictimers.com/products/robic-silver-2-0-twin-stopwatch-with-ultra-precise-countdown-timer) model is popular, durable, and supports the modes required for Jam Timing.
 
 Jam Timing in a face mask is possible. You may choose to use a push-button electronic whistle, but it is difficult to produce the required cues effectively. Alternately, you can place your whistle inside your mask. You can either drop the whistle out of your mask while not issuing a whistle cue or retain the whistle inside your mask in your cheek area to allow you to speak.
 
@@ -48,6 +53,8 @@ You should Jam Time with two stopwatches to ensure that you’re able to time ea
 - The other is your Jam, Lineup, and Timeout Clock. (In the rest of this guide, we just say "Jam Clock").
   - You can set this watch to count up from 00:00, which makes it easy to time jams (2:00), lineups (00:30), and timeouts (1:00). However, it won’t match the jam time readout on the scoreboard, which counts down from 2:00.
   - Alternately, you can use this watch in a countdown mode (from 2:00) to match the format of the scoreboard. This can require you to do more mental math as you use this clock to time other game segments.
+
+If you have only one stopwatch, treat this as your Period Clock. You'll still be able to complete all of your duties as a Jam Timer; you just won't have a backup clock for game segments other than the period.
 
 Below, we’ll discuss how you use these clocks throughout the game.
 
@@ -202,11 +209,11 @@ None of these checks are the _sole_ responsibility of the Jam Timer. The referee
 Make sure you know what it means for a skater to be on the track. Reference [Rules 2.2 Positions](https://rules.wftda.com/02_gameplay.html#positions) and [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game). Be aware that skaters often move on and off the track during the lineup period. You should not take action until the jam-start whistle would be blown. If you need to go into an Official Time Out to assess a penalty, do so in place of starting the jam.
 
   - Do both teams have a jammer on track or in the box?
-  - Are enough blockers on the track to form a pack?
+  - Are enough blockers on the track to form a pack (at least one per team)?
   - Is the Penalty Box Manager signaling for a skater to report to the box, while that skater is not on the track?
   - Is the Penalty Lineup Tracker indicating that a skater is on track who is not eligible to skate?
 
-In all of these situations, whistle an Official Time Out instead of starting the jam. Assess a Delay of Game penalty to the captain of the team failing to field the right skaters, or a TODO to a queued skater who is not lined up.
+In all of these situations, whistle an Official Time Out instead of starting the jam. Assess a Delay of Game penalty to the captain of the team failing to field the right skaters, or a to a queued skater who is not lined up (Casebook C4.2.3A).
 
   - Is either team fielding a number of skaters significantly in excess of what is allowed?
     - Whistle an Official Time Out.
@@ -276,7 +283,7 @@ If an Official Time Out was called, there are three possible outcomes.
 
 As the Jam Timer, you simply wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate.
 
-Current versions of the CRG Scoreboard will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning.
+Current versions of the [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard/) will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning.
 
 ### Time Outs and Official Reviews
 
@@ -297,7 +304,7 @@ When a Time Out or Official Review is requested and all preconditions are met:
 1. Blow four short whistle blasts to signal stoppage of the period clock.
 2. Stop your Period Clock.
 3. If this is a Team Time Out, reset your Jam Clock and start timing the Time Out as a backup to the scoreboard.
-4. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage (see the [Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, pages 16-17. Make sure that the scoreboard operator can see your hand cues.
+4. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage (see the [Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, pages 16-17). Make sure that the scoreboard operator can see your hand cues.
 
 If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
 
@@ -316,12 +323,11 @@ See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interf
 
 During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. Hand signals for this process are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
 
-If your backup Period Clock and the official Period Clock diverge, and you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected.
+Stoppages of play are the **only** time you can change the official game clock on the scoreboard. If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, sections 3.2.1 and 4.5).
 
 Doing so is disruptive to the flow of gameplay, like all official time outs. Use your judgement to decide whether or not you need to take this action. If the situation makes a small time divergence have an impact on gameplay, such as in a close-scoring game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action _not_ to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
 
 ## Managing Edge Cases
-
 
 ### Overtime Jams
 
@@ -341,7 +347,7 @@ When Sudden Scoring is in effect for Period 2, the procedures for the Jam Timer 
 2. No Lead Jammer is assigned, so that all jams are whistled off by the Jam Timer.
 3. Overtime Jams do not change and remain 2:00 long.
 
-TODO citation
+See [JRDA Rules](https://www.juniorrollerderby.org/rules), Appendix 1.
 
 ### Injury Call-Offs (JRDA Only)
 
@@ -358,7 +364,7 @@ The continuation runs for the _balance of the original jam clock_. If the jam wa
 
 Be aware that Injury Call-Offs are a relatively new rule that is not applied often, due to its limited circumstances of use. Not all officials may know the fine points of the rule.
 
-TODO citation
+See [JRDA Rules](https://www.juniorrollerderby.org/rules), Appendix 2.
 
 ## Additional Responsibilities
 
