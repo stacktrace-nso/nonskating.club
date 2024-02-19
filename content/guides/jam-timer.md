@@ -1,10 +1,10 @@
-+++
-title="Jam Timer"
-date="2024-02-09"
-template="guide.html"
-[extra]
-author="David Reed / Stacktrace"
-+++
+---
+title: "Jam Timer"
+date: "2024-02-09"
+template: "guide.html"
+extra:
+    author: "David Reed / Stacktrace"
+---
 
 ## Introduction
 
