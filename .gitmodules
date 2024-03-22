@@ -7,3 +7,6 @@
 [submodule "themes/themes/datum"]
 	path = themes/themes/datum
 	url = https://github.com/davidmreed/datum
+[submodule "static-cms"]
+	path = static-cms
+	url = git@github.com:davidmreed/static-cms.git
