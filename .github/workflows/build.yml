@@ -10,8 +10,9 @@ jobs:
         uses: actions/checkout@v4
       - uses: DeterminateSystems/nix-installer-action@main
       - uses: DeterminateSystems/magic-nix-cache-action@main
-      - run: nix develop
-      - run: just render
+      - run: |
+          nix develop
+          just render
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
         with:
