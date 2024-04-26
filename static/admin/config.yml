@@ -19,6 +19,7 @@ collections:
       - { label: 'Template', name: 'template', widget: 'hidden', default: 'guide.html' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Draft', name: 'draft', widget: 'boolean' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
     editor:
       preview: false
