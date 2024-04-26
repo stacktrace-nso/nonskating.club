@@ -6,14 +6,19 @@ backend:
   branch: main
 publish_mode: editorial_workflow
 media_folder: static
+media_library:
+  display_in_navigation: false
 collections:
   - name: 'guides'
     label: 'Guides'
     folder: 'content/guides'
     create: true
+    delete: false
     slug: '{{slug}}'
     fields:
       - { label: 'Template', name: 'template', widget: 'hidden', default: 'guide.html' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+    editor:
+      preview: false
