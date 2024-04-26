@@ -1,10 +1,11 @@
-+++
-title="Head NSO"
-date="2024-02-14"
-template="guide.html"
-[extra]
-author="David Reed / Stacktrace"
-+++
+---
+title: "Head NSO"
+date: "2024-02-14"
+template: "guide.html"
+draft: true
+extra:
+    author: "David Reed / Stacktrace"
+---
 
 Tell the crew who the heads are, who the coaches, captains, and alternates are.
 

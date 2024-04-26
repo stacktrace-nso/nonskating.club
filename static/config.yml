@@ -1,0 +1,19 @@
+site_url: https://nonskating.club
+backend:
+  name: github
+  repo: davidmreed/nonskating.club
+  open_authoring: true
+  branch: main
+publish_mode: editorial_workflow
+media_folder: static
+collections:
+  - name: 'guides'
+    label: 'Guides'
+    folder: 'content/guides'
+    craete: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Template', name: 'template', widget: 'hidden', default: 'guide.html' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

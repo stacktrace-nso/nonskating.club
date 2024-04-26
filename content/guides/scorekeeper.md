@@ -1,10 +1,11 @@
-+++
-title="Scorekeeper"
-date="2024-02-11"
-template="guide.html"
-[extra]
-author="David Reed / Stacktrace"
-+++
+---
+title: "Scorekeeper"
+date: "2024-02-11"
+template: "guide.html"
+draft: true
+extra:
+    author: "David Reed / Stacktrace"
+---
 
 ## Introduction
 
@@ -21,15 +22,17 @@ As with all officiating positions in roller derby, it’s important to be aware 
 
 ## The Basic Routine
 
-Watch your Jam Referee and Jammer (in that order) during each jam. Follow the Statsbook Manual's instructions to record points and jam events (Lost Lead, Lead, Call, Injury, No Initial; Star Passes). When each event happens, or when points are awarded, verbally communicate it to the Scoreboard Operator. The Scoreboard Operator will often echo this back to you to indicate that they received it.
+Watch your Jam Referee and Jammer (in that order) during each jam. Follow the Statsbook Manual's instructions to record points and jam events (Lost Lead, Lead, Call, Injury, No Initial; Star Passes). **This guide deliberately does not cover the paperwork, because the Statsbook Manual is the authority**.
+
+When each event happens, or when points are awarded, verbally communicate it to the Scoreboard Operator. The Scoreboard Operator will often echo this back to you to indicate that they received it.
 
 For example, a jam might go like this:
 
 > Jam Timer: *short whistle* to start jam.
 > *Play begins*
 > Jam Referee Blue: *two short whistle blasts* to indicate lead.
-> Scorekeeper Blue (SW): Blue lead
-> Scoreboard Operator (SBO): Blue lead, got it.
+> Scorekeeper Blue: Blue lead
+> Scoreboard Operator: Blue lead, got it.
 > *Play continues*
 > Jam Referee Blue: *holds up three fingers*
 > Scorekeeper Blue: *holds up three fingers* Three points Blue.
@@ -48,12 +51,15 @@ For example, a jam might go like this:
 > Scorekeeper Blue: 109 blue confirmed.
 > Scorekeeper Red: 87 red confirmed.
 
-The conversation doesn't have to go exactly like this. Nobody needs to use these exact phrases. The scorekeepers could confirm the total rather than the scoreboard operator. Someone might miss an event and hear it from a colleague. What's important in this example is that the two scorekeepers and the scoreboard operator are _talking constantly_. They make sure that everyone has the information they need to do their jobs. They acknowledge that a game environment is noisy and fast-moving by acknowledging what they hear. And they make sure to confirm their most important job - keeping the visible score accurate - constantly, so that problems are caught right away while the rules still permit a correction.
+The conversation doesn't have to go exactly like this. Nobody needs to use these exact phrases. The scorekeepers could confirm the total rather than the scoreboard operator. Someone might miss an event and hear it from a colleague. 
+
+What's important in this example is that the two scorekeepers and the scoreboard operator are _talking constantly_. They make sure that everyone has the information they need to do their jobs. They acknowledge that a game environment is noisy and fast-moving by acknowledging what they hear. And they make sure to confirm their most important job - keeping the visible score accurate - constantly, so that problems are caught right away while the rules still permit a correction.
 
 Why call out these specific pieces of information?
 
 - The Scoreboard Operator needs to know all of these events so that they can reflect them on the official scoreboard. Because they're monitoring both scorekeepers, they may not be able to collect all of the data themselves and rely on the scorekeepers to feed them data.
 - The scorekeepers _both_ record star passes for _both_ teams. Since each scorekeeper is watching their own Jam Referee, they need to make sure their counterparts receive notice when a star pass occurs for the other team.
+- Redundancy - the two scorekeepers plus that data in the scoreboard - increases the likelihood that a correct game record can be achieved during statsbook data entry. 
 
 ## Communication
 
@@ -61,7 +67,7 @@ Why call out these specific pieces of information?
 
 Your Jam Referee will signal points to you starting when the jammer leaves the Engagement Zone (TODO reference). Many Jam Referees will continue to signal until the jammer enters the Engagement Zone for their next scoring trip. You should do the same. Remember that your signal may be seen by others throughout the venue, not just by your Jam Referee confirming that you've caught the points.
 
-You do not need to echo other signals, such as the Lead sign. Doing so may provoke confusion.
+You do not need to echo other signals, such as the Lead sign. Some scorekeepers do, but it may provoke confusion.
 
 There is no standardized hand signal for "no initial trip". There are several widespread conventions with more or less equal popularity. You should always ask your Jam Referee before the game how they signal a "no initial" to you, and be prepared to echo using the same signal.
 
@@ -69,19 +75,27 @@ There is no standard signal for "a star pass occurred". It is very common for re
 
 _Always_ make sure that your co-scorekeeper and scoreboard operator are aware of the star pass.
 
-Situations where an illegal or incomplete star pass occurs can be quite confusing. You should always watch and take your cues from your Jam Referee.
+Situations where an illegal or incomplete star pass occurs can be quite confusing. You should always watch and take your cues from your Jam Referee. TODO: elaborate
+
+End of period/game stuff
 
 ### Scoreboard Operator and Other Scorekeeper
+
+Confirming star pass count
 
 ## Paperwork Beyond the Manual
 
 Many experienced scorekeepers go beyond what's specified in the Statsbook Manual.
 
-It's a good idea to always write down your pivot's number in the margin of your score sheet, to the left of the Jam column. This ensures that when a star pass occurs, you have the information at hand.
+It's a good idea to always write down your pivot's number in the margin of your score sheet, to the left of the Jam column. This ensures that when a star pass occurs, you have the information at hand. It also allows your paperwork to support the Penalty Lineup Tracker's during statsbook data entry.
 
-Some scorekeepers use "Dot System". Dot System is a way to annotate your paperwork with more information about the progress of the jam, which can help you keep track of scoring trips. This guide deliberately does not cover Dot System. You can read about it [here](TODO). We neither encourage nor discourage the Dot System. Some scorekeepers benefit from it immensely, while others find it a distraction. We encourage reviewing it and experimenting to find what makes you most effective.
+Some scorekeepers use "Dot System". Dot System is a way to annotate your paperwork with more information about the progress of the jam, which can help you keep track of scoring trips. This guide deliberately does not cover Dot System. You can read about it [here](TODO). We neither encourage nor discourage the Dot System. We encourage reviewing it and experimenting to find what makes you most effective.
+
+### Understanding the Statsbook
 
 ### Notating Substitutions
+
+## Common Paperwork Mistakes
 
 ## Score Corrections
 
@@ -106,8 +120,8 @@ What if I disagree with my jam referee's points count?
 
 ## Pragmatics and Training
 
-It's very common for scorekeepers to have limited experience in the position. Crews that are short on non-skating officials will press skaters into scorekeeping duty. Many scorekeepers are trained primarily at practices and scrimmages, where the scoreboard may not be used and the full team of scoreboard operator and other scorekeeper are not available.
+It's very common for scorekeepers to have limited experience in the position. Crews that are short on non-skating officials will press skaters or jam referees into scorekeeping duty. Many scorekeepers are trained primarily at practices and scrimmages, where the scoreboard may not be used and the full team of scoreboard operator and other scorekeeper are not available.
 
 In many cases, but certainly not all, the scoreboard operator is a more experienced non-skating official. (The scoreboard is not difficult to operate, but has many challenges and edge cases). If that's your situation, take advantage of their expertise. Draw on your other scorekeeper too, or lend them your expertise if they need it. However, always make sure to do your own job first.
 
-When the NSO crew is very limited, it's possible to go with a single scorekeeper and a scoreboard operator. In extreme circumstances, it's possible even to have the scoreboard operator catch points for both teams.
+When the NSO crew is very limited, it's possible to go with a single scorekeeper and a scoreboard operator. In extreme circumstances, it's possible even to have the scoreboard operator catch points for both teams. While this situation _could_ meet the standards for a sanctioned game (which does not require a specific position count for NSOs), it's very risky and not recommended.
