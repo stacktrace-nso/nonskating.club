@@ -125,6 +125,7 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 **Starting state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
 
 1. Monitor the jam clock. If the jam clock reaches two minutes, the Jam Timer calls off the jam by blowing two rounds of four short whistle blasts and repeatedly touching their hips.
+    - Head Referees often appreciate a heads-up at 10 seconds before you call off the jam.
 2. Listen for jam call-off whistles from the referees. The Jam Timer joins in the echo of jam call-off. For example, after hearing the initial set of four short whistle blasts to call the jam, the Jam Timer blows four short whistle blasts twice along with the other referees.
 3. Maintain awareness for any of the situations discussed under “What to Watch During the Jam”.
 4. As your awareness, comfort, and crew needs dictate, support the officials around you (such as Penalty Lineup Trackers) with information they might have missed. You can communicate penalties, lead status, star passes, and other game events.
@@ -173,7 +174,8 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 **Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped or timing Team Time Out
 
 1. Ensure Watch 1 (the period clock backup) is stopped immediately at the fourth whistle of the first set of four whistle blasts that marked the stoppage of play.
-2. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
+1. Perform the appropriate ongoing visual cue for the type of play stoppage. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)).
+1. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
 3. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
 
 ---
