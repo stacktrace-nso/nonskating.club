@@ -233,6 +233,7 @@ At least one medic must be available to treat skaters at all times, per the WFTD
 
   - **If yes**: execute the steps under **Time Outs and Official Reviews**.
   - Note that this responsibility calls for you to maintain awareness of which team has Time Outs or Official Reviews remaining.
+
 #### Are any officials unready to start the jam?
 
   - Are any officials signaling for an Official Time Out?
@@ -289,7 +290,7 @@ If an Official Time Out was called, there are three possible outcomes.
 
 As the Jam Timer, you simply wait for the Period Clock to run out while watching closely for the teams to call a Time Out or Official Review. Do not give the "Five Seconds" cue. When the Period Clock expires, execute the steps under **At the end of the first period** or **At the end of the game** as appropriate.
 
-Current versions of the [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard/) will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning.
+Current versions of the [CRG Derby Scoreboard](https://github.com/rollerderby/scoreboard/) will highlight the lineup period clock in red to indicate to you that the jam should not start without a timeout being called. Be aware, however, that older versions will not provide this warning and may still be in use.
 
 ### Time Outs and Official Reviews
 
@@ -329,11 +330,20 @@ See [Casebook 4.2.3](https://rules.wftda.com/casebook/04_c_penalties.html#interf
 
 During a stoppage of play, you can work with the Scoreboard Operator to make corrections to the official Period Clock based on your (backup) Period Clock. Hand signals for this process are not standardized. It is common to use one finger pointing up or down to indicate the direction of the adjustment, followed by a number of seconds by fingers. Large adjustments may require the Jam Timer to go to the scoreboard area. Discuss with the Scoreboard Operator before the game how you plan to signal time adjustments or a confirmation that the clock is correct.
 
-Stoppages of play are the **only** time you can change the official game clock on the scoreboard. If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, sections 3.2.1 and 4.5).
+Stoppages of play are the **only** time you can change the official game clock on the scoreboard. If your backup Period Clock and the official Period Clock diverge, **and** you believe that your backup clock has the correct time, you may call an Official Time Out between jams to allow the official Period Clock to be corrected. (See WFTDA Officiating Procedures, sections 3.2.1 and 4.5). _Your backup clock is not necessarily correct_; it is your responsibility to maintain awareness.
 
 Doing so is disruptive to the flow of gameplay, like all official time outs. Use your judgement to decide whether or not you need to take this action. If the situation makes a small time divergence have an impact on gameplay, such as in a close-scoring game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action _not_ to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
 
-TODO: correcting the jam clock
+### Correcting the Jam Clock
+
+The jam clock may be corrected _without_ a stoppage of play, provided that
+
+1. The time is off by more than 3 seconds.
+1. No more than 15 seconds of gameplay have elapsed.
+
+(See WFTDA Officiating Procedures, section 3.2).
+
+This process occurs rarely and will generally require the jam timer to approach the scoreboard, or for the scoreboard operator to observe and correct a malfunction independently.
 
 ## Managing Edge Cases
 
@@ -352,8 +362,8 @@ JRDA’s Sudden Scoring rules apply when, at halftime, the score differential is
 When Sudden Scoring is in effect for Period 2, the procedures for the Jam Timer change:
 
 1. Jams run for up to **1:00** instead of 2:00.
-2. No Lead Jammer is assigned, so that all jams are whistled off by the Jam Timer.
-3. Overtime Jams do not change and remain 2:00 long.
+1. No Lead Jammer is assigned, so that all jams are whistled off by the Jam Timer.
+1. Overtime Jams do not change and remain 2:00 long.
 
 See [JRDA Rules](https://www.juniorrollerderby.org/rules), Appendix 1.
 
@@ -362,17 +372,21 @@ See [JRDA Rules](https://www.juniorrollerderby.org/rules), Appendix 1.
 JRDA rules allow for a special “continuation” of a jam that was terminated due to injury in a narrow set of circumstances. Such a continuation jam can occur when all of these conditions are met:
 
 1. The jam is called off due to injury.
-2. The injury was not the result of penalized contact.
-3. The opposing team (to the injured player’s team) had Lead at the time of call-off.
-4. A continuation has not already occurred for this jam.
-
-A continuation entails a new lineup period (**Before each jam that does not directly follow another jam**), with all of the same players and same positions. The jam number remains the same.
-
-The continuation runs for the _balance of the original jam clock_. If the jam was called off due to injury at 1:15, the resumed jam may run for up to 0:45.
-
-Be aware that Injury Call-Offs are a relatively new rule that is not applied often, due to its limited circumstances of use. Not all officials may know the fine points of the rule.
+1. The injury was not the result of penalized contact.
+1. The opposing team (to the injured player’s team) had Lead at the time of call-off.
+1. A continuation has not already occurred for this jam.
 
 See [JRDA Rules](https://www.juniorrollerderby.org/rules), Appendix 2.
+
+1. Injury occurred to only one team.
+
+See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4.
+
+A continuation entails a new lineup period (**Before each jam that does not directly follow another jam**), with all of the same players and same positions. The jam number remains the same. The continuation runs for the _balance of the original jam clock_. If the jam was called off due to injury at 1:15, the resumed jam may run for up to 0:45.
+
+Before initiating a continuation, the officials should inform the coaches and allow the Lead Jammer the opportunity to opt out of invoking the continuation rule. (See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4). Some teams indicate during the captains and coaches meeting prior to the game that they will opt out in all cases, meaning that this rule will not take effect.
+
+Be aware that Injury Call-Offs are a relatively new rule that is not applied often, due to its limited circumstances of use. Not all officials may know the fine points of the rule.
 
 ## Additional Responsibilities
 
