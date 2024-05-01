@@ -1,0 +1,5 @@
+---
+author: Stacktrace / David Reed
+rights: Creative Commons Attribution-ShareAlike 4.0
+language: en-US
+---
