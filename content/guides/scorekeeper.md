@@ -11,6 +11,8 @@ extra:
 
 As with all officiating positions in roller derby, it’s important to be aware that Scorekeeping is a combination of *what the rules explicitly say*, *how the rules are interpreted by the community*, and *common practices that are not rule-driven*.
 
+Scorekeeping, in particular, is driven by the needs of the WFTDA Statsbook. 
+
 ## Resources
 
 - [The Rules of Flat Track Roller Derby](https://rules.wftda.com/), in particular TODO
@@ -28,28 +30,28 @@ When each event happens, or when points are awarded, verbally communicate it to 
 
 For example, a jam might go like this:
 
-> Jam Timer: *short whistle* to start jam.
-> *Play begins*
-> Jam Referee Blue: *two short whistle blasts* to indicate lead.
-> Scorekeeper Blue: Blue lead
-> Scoreboard Operator: Blue lead, got it.
-> *Play continues*
-> Jam Referee Blue: *holds up three fingers*
-> Scorekeeper Blue: *holds up three fingers* Three points Blue.
-> Scoreboard Operator: Three points Blue, got it.
-> Referees: *signals star pass*
-> Scorekeeper Red: Star pass red. New jammer is Red 052.
-> Scoreboard Operator and Scorekeeper Blue: Star pass red, got it.
-> Jam Referee Blue: *holds up four fingers*
-> Scorekeeper Blue: Four points Blue.
-> Scoreboard Operator: Four points Blue, got it.
-> Scorekeeper Red: Red initial trip complete.
-> Scoreboard Operator: Red initial, got it.
-> Jam Referee Blue: *four short whistle blasts*
-> Scorekeeper Blue: Blue call.
-> Scoreboard Operator: Blue call, got it. Total score is 109 Blue to 87 Red.
-> Scorekeeper Blue: 109 blue confirmed.
-> Scorekeeper Red: 87 red confirmed.
+> Jam Timer: *short whistle* to start jam.<br />
+> *Play begins*<br />
+> Jam Referee Blue: *two short whistle blasts* to indicate lead.<br />
+> Scorekeeper Blue: Blue lead<br />
+> Scoreboard Operator: Blue lead, got it.<br />
+> *Play continues*<br />
+> Jam Referee Blue: *holds up three fingers*<br />
+> Scorekeeper Blue: *holds up three fingers* Three points Blue.<br />
+> Scoreboard Operator: Three points Blue, got it.<br />
+> Referees: *signals star pass*<br />
+> Scorekeeper Red: Star pass red. New jammer is Red 052.<br />
+> Scoreboard Operator and Scorekeeper Blue: Star pass red, got it.<br />
+> Jam Referee Blue: *holds up four fingers*<br />
+> Scorekeeper Blue: Four points Blue.<br />
+> Scoreboard Operator: Four points Blue, got it.<br />
+> Scorekeeper Red: Red initial trip complete.<br />
+> Scoreboard Operator: Red initial, got it.<br />
+> Jam Referee Blue: *four short whistle blasts*<br />
+> Scorekeeper Blue: Blue call.<br />
+> Scoreboard Operator: Blue call, got it. Total score is 109 Blue to 87 Red.<br />
+> Scorekeeper Blue: 109 blue confirmed.<br />
+> Scorekeeper Red: 87 red confirmed.<br />
 
 The conversation doesn't have to go exactly like this. Nobody needs to use these exact phrases. The scorekeepers could confirm the total rather than the scoreboard operator. Someone might miss an event and hear it from a colleague. 
 
@@ -60,6 +62,8 @@ Why call out these specific pieces of information?
 - The Scoreboard Operator needs to know all of these events so that they can reflect them on the official scoreboard. Because they're monitoring both scorekeepers, they may not be able to collect all of the data themselves and rely on the scorekeepers to feed them data.
 - The scorekeepers _both_ record star passes for _both_ teams. Since each scorekeeper is watching their own Jam Referee, they need to make sure their counterparts receive notice when a star pass occurs for the other team.
 - Redundancy - the two scorekeepers plus that data in the scoreboard - increases the likelihood that a correct game record can be achieved during statsbook data entry. 
+
+### End-of-Period and End-of-Game Responsibilities
 
 ## Communication
 

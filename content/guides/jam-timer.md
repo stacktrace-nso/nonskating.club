@@ -76,7 +76,7 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 **At the start of the game**, the Jam Timer executes the following steps.
 
-**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+**Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
 1. Confirm that the Head Referee is ready to begin the game, and visually confirm that officials are in position.
 2. Enter the **Before each jam that does not directly follow another jam** sequence.
@@ -85,7 +85,7 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 **Before each jam that directly follows another jam,** the Jam Timer executes the following steps.
 
-**Starting state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Lineup Period
+**Starting state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
 1. Complete the pre-jam checks (see below) during the 30-second lineup period.
 2. At 00:25 into the lineup period (5 seconds prior to jam start) as displayed on the scoreboard, issue the Five Seconds verbal cue and hand signal specified in the [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document.
@@ -98,13 +98,13 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 5. Start your Jam Clock to time the jam.
 6. Move to a position in the track center where you are out of the way of referees and other NSOs.
 
-**Ending state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+**Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
 ---
 
 **Before each jam that does not directly follow another jam**, such as a resumption of play after a stoppage or the first jam of a period, the Jam Timer executes the following steps.
 
-**Starting state:** ⏱ Period Clock: Stopped, ⏱ Jam Clock:  Stopped or timing Team Time Out
+**Starting state:** ⌚ Period Clock: Stopped, ⌚ Jam Clock:  Stopped or timing Team Time Out
 
 2. Blow a Rolling Whistle cue to start a lineup period.
 3. Reset (if needed) and start the Jam Clock to time the lineup period.
@@ -116,13 +116,13 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 9. Reset (if needed) and start your Jam Clock to time the jam. Simultaneously, start your Period Clock.
 10. Move to a position in the track center where you are out of the way of referees and other NSOs.
 
-**Ending state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+**Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
 ---
 
 **During each jam**, the Jam Timer executes the following steps.
 
-**Starting state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+**Starting state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
 1. Monitor the jam clock. If the jam clock reaches two minutes, the Jam Timer calls off the jam by blowing two rounds of four short whistle blasts and repeatedly touching their hips.
     - Head Referees often appreciate a heads-up at 10 seconds before you call off the jam.
@@ -130,48 +130,48 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 3. Maintain awareness for any of the situations discussed under “What to Watch During the Jam”.
 4. As your awareness, comfort, and crew needs dictate, support the officials around you (such as Penalty Lineup Trackers) with information they might have missed. You can communicate penalties, lead status, star passes, and other game events.
 
-**Ending state:** ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam or Lineup Period (when Jam ends)
+**Ending state:** ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam or Lineup Period (when Jam ends)
 
 ---
 
 **At the end of each jam,** the Jam Timer executes the following steps.
 
-**Starting state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Jam
+**Starting state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Jam
 
 1. Starts a stopwatch to time the lineup period, as a **backup** to the scoreboard.
 2. Returns to their position near the Pivot Line area.
 
-**Ending state**: ⏱ Period Clock: Running, ⏱ Jam Clock: timing Lineup Period
+**Ending state**: ⌚ Period Clock: Running, ⌚ Jam Clock: timing Lineup Period
 
 ---
 
 **At the end of the first period**, the Jam Timer executes the following steps.
 
-**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+**Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
 1. Checks for any requests for an Official Review.
 2. Blows a rolling whistle to indicate the end of the period.
 
-**Ending state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+**Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
 
 ---
 
 **At the end of the game,** the Jam Timer executes the following steps.
 
-**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+**Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
 1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (Note: this is specified under “Rolling Whistle” in the Officiating Cues, Codes, and Signals document, not in the Rules).
 2. Wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
 3. Blow a Rolling Whistle to indicate the end of the game.
 
-**Ending state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped
+**Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
 ---
 
 **During a stoppage of play**, the Jam Timer executes the following steps.
 
-**Starting state**: ⏱ Period Clock: Stopped, ⏱ Jam Clock: Stopped or timing Team Time Out
+**Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped or timing Team Time Out
 
 1. Ensure Watch 1 (the period clock backup) is stopped immediately at the fourth whistle of the first set of four whistle blasts that marked the stoppage of play.
 1. Perform the appropriate ongoing visual cue for the type of play stoppage. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)).
@@ -311,16 +311,14 @@ Several conditions must be met for a team’s Time Out or Official Review reques
 When a Time Out or Official Review is requested and all preconditions are met:
 
 1. Blow four short whistle blasts to signal stoppage of the period clock.
-2. Stop your Period Clock.
-3. If this is a Team Time Out, reset your Jam Clock and start timing the Time Out as a backup to the scoreboard.
-4. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage (see the [Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, pages 16-17). Make sure that the scoreboard operator can see your hand cues.
-
-If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
-
+1. Stop your Period Clock.
+1. If this is a Team Time Out, reset your Jam Clock and start timing the Time Out as a backup to the scoreboard.
+1. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage (see the [Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, pages 16-17). Make sure that the scoreboard operator can see your hand cues.
+1. If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
 1. If you prefer or if your local convention expects it, you may use non-standard cues during the resumption of play to ensure that skaters clearly understand your actions. Some Jam Timers find this helps in situations where skaters misinterpret the rolling whistle as a jam-start whistle.
-  - (Optional) Give the nonstandard hand signal for “this whistle starts a lineup period”. Stand on the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
-  - (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
-2. Execute the steps given under **Before each jam that does not directly follow another jam**.
+    - (Optional) Give the nonstandard hand signal for “this whistle starts a lineup period”. Stand on the Pivot Line and extend your open palm in the direction of the skaters with fingers together, indicating “stop”.
+    - (Optional) Give the nonstandard verbal cue “Next whistle ends the (time out/official review)“, if applicable.
+1. Execute the steps given under **Before each jam that does not directly follow another jam**.
 
 #### Illegal Time Out and Official Review Calls
 
@@ -336,6 +334,8 @@ Stoppages of play are the **only** time you can change the official game clock o
 
 Doing so is disruptive to the flow of gameplay, like all official time outs. Use your judgement to decide whether or not you need to take this action. If the situation makes a small time divergence have an impact on gameplay, such as in a close-scoring game, call the timeout. If the divergence is large, such that a participant or spectator likely noticed it, call the timeout; in this case, your action _not_ to call the timeout may be more disruptive than calling it. In all other situations, assess on a case-by-case basis.
 
+## Managing Edge Cases
+
 ### Correcting the Jam Clock
 
 The jam clock may be corrected _without_ a stoppage of play, provided that
@@ -346,8 +346,6 @@ The jam clock may be corrected _without_ a stoppage of play, provided that
 (See WFTDA Officiating Procedures, section 3.2).
 
 This process occurs rarely and will generally require the jam timer to approach the scoreboard, or for the scoreboard operator to observe and correct a malfunction independently.
-
-## Managing Edge Cases
 
 ### Overtime Jams
 

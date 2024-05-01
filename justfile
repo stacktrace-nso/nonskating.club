@@ -5,8 +5,8 @@ render: build
     #!/usr/bin/env bash
     for guide in public/guides/*/index.html; do
         base=$(basename $(dirname $guide))
-        #weasyprint $guide $(dirname $guide)/$base.pdf
-        pandoc -r html -w epub $guide -o $(dirname $guide)/$base.epub
+        weasyprint $guide $(dirname $guide)/$base.pdf -s static/print.css
+        pandoc -r html -w epub $guide -o $(dirname $guide)/$base.epub --css static/print.css
     done
 
 watch:

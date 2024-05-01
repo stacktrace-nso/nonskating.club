@@ -1,0 +1,6 @@
+{% macro svg(item, alt) %}
+{% set svg_data = load_data(path="themes/datum/svgs/" ~ item ~ ".svg") %}
+<span class="icon">
+    {{ svg_data | safe }}
+</span>
+{% endmacro svg %}

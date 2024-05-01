@@ -1,12 +1,20 @@
 {% extends "page.html" %}
 
+{% import "ns-macros.html" as macros %}
+
 {% block content %}
 <h1>
     {{ page.title }}
-    <span style="float: right; font-size: 40%;">
-        <a href="/admin/#/edit/guides/{{ page.slug }}">Edit This Guide</a>
-        <!-- <a href="{{ page.slug }}.pdf">PDF</a> -->
-        <a href="{{ page.slug }}.epub">EPUB</a>
+    <span class="action-icons" style="float: right; font-size: 40%; vertical-align: bottom;">
+        <a href="/admin/#/edit/guides/{{ page.slug }}">
+            {{ macros::svg(item="solid/pencil", alt="Edit This Guide") }}
+        </a>
+        <a href="{{ page.slug }}.pdf">
+            {{ macros::svg(item="solid/file-pdf", alt="PDF") }}
+        </a>
+        <a href="{{ page.slug }}.epub">
+            {{ macros::svg(item="solid/book", alt="EPUB Version") }}
+        </a>
     </span>
 </h1>
 <section class="header">
@@ -26,6 +34,14 @@
         <div>
             <dt>Reading Time</dt>
             <dd>{{ page.reading_time }} minutes</dd>
+        </div>
+        <div class="canonical-link">
+            <dt>Permanent Link</dt>
+            <dd>{{ page.permalink }}</dd>
+        </div>
+        <div class="canonical-link">
+            <dt>License</dt>
+            <dd>Creative Commons Attribution-ShareAlike 4.0 International</dd>
         </div>
     </dl>
 </section>

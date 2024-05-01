@@ -10,7 +10,7 @@ author="David Reed / Stacktrace"
 
 ## Authorship
 
-The lead author and editor of the Non-Skating Offical Guides is [David Reed / Stacktrace](https://ktema.org) ([games history](https://ktema.org/about/games-history)), currently Head NSO at Denver Roller Derby. Contributors to the Guides include:
+The lead author and editor of the Non-Skating Offical Guides is [David Reed / Stacktrace](https://ktema.org) ([games history](https://ktema.org/about/games-history)), currently Head NSO at [Denver Roller Derby](https://denverrollerderby.org). Contributors to the Guides include:
 
 - Your name could be here! Learn about [contributing](@/contributing.md).
 
@@ -24,7 +24,7 @@ We want our guides to:
 - Always start from and defer to official WFTDA, JRDA, and MRDA resources.
 - Clearly distinguish between the rules and procedures and officiating conventions.
 
-The Guides are newly-written starting in 2023 from the latest edition of the Rules of Flat-Track Roller Derby. Each guide displays its last-updated date. We strive not to duplicate resources from the sport's governing bodies, but to collate, contextualize, and apply them in practice.
+The Guides are newly-written starting in 2024 from the latest edition of the Rules of Flat Track Roller Derby. Each guide displays its last-updated date. We strive not to duplicate resources from the sport's governing bodies, but to collate, contextualize, and apply them in practice.
 
 We also want our guides to:
 
