@@ -9,9 +9,12 @@
       let pkgs = import nixpkgs { system = system; config.allowUnfree = true; }; in
       {
         devShells.default = pkgs.mkShell {
-          packages = with pkgs; [ zola just python312Packages.weasyprint inotify-tools pandoc ];
-          fontPackages = [ pkgs.corefonts ];
+          packages = with pkgs; [ zola just python312Packages.weasyprint inotify-tools pandoc corefonts ];
+          FONTCONFIG_FILE = pkgs.makeFontsConf {
+            fontDirectories = [ pkgs.corefonts ];
+          };
         };
       }
     );
 }
+
