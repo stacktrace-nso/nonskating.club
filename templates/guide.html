@@ -3,19 +3,15 @@
 {% import "ns-macros.html" as macros %}
 
 {% block content %}
+
+<style>
+    .canonical-link {
+        display: none !important;
+    }
+</style>
+
 <h1>
     {{ page.title }}
-    <span class="action-icons" style="float: right; font-size: 40%; vertical-align: bottom;">
-        <a href="/admin/#/edit/guides/{{ page.slug }}">
-            {{ macros::svg(item="solid/pencil", alt="Edit This Guide") }}
-        </a>
-        <a href="{{ page.slug }}.pdf">
-            {{ macros::svg(item="solid/file-pdf", alt="PDF") }}
-        </a>
-        <a href="{{ page.slug }}.epub">
-            {{ macros::svg(item="solid/book", alt="EPUB Version") }}
-        </a>
-    </span>
 </h1>
 <section class="header">
     <dl>
@@ -43,6 +39,26 @@
             <dt>License</dt>
             <dd>Creative Commons Attribution-ShareAlike 4.0 International</dd>
         </div>
+        <div class="action-icons">
+            <dt>Edit this Guide</dt>
+            <dd><a href="/admin/#/edit/guides/{{ page.slug }}" class="icon">
+                {{ macros::svg(item="solid/pencil", alt="Edit This Guide") }}
+            </a>
+        </dd>
+        </div>
+        <div class="action-icons">
+            <dt>
+                Other Formats
+            </dt>
+            <dd>
+                <a href="{{ page.slug }}.pdf" class="icon">
+                    PDF {{ macros::svg(item="solid/file-pdf", alt="PDF") }}
+                </a>
+                <a href="{{ page.slug }}.epub" class="icon">
+                    EPUB {{ macros::svg(item="solid/book", alt="EPUB Version") }}
+                </a>        
+            </dd>
+        </div>    
     </dl>
 </section>
 {% if page.toc %}
@@ -51,12 +67,12 @@
     <ul>
     {% for h1 in page.toc %}
         <li>
-            <a href="{{ h1.permalink | safe }}">{{ h1.title }}</a>
+            <a href="#{{ h1.id | safe }}">{{ h1.title }}</a>
             {% if h1.children %}
                 <ul>
                     {% for h2 in h1.children %}
                         <li>
-                            <a href="{{ h2.permalink | safe }}">{{ h2.title }}</a>
+                            <a href="#{{ h2.id | safe }}">{{ h2.title }}</a>
                         </li>
                     {% endfor %}
                 </ul>

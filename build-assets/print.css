@@ -2,6 +2,10 @@
     display: none;
 }
 
+.canonical-link {
+    display: inline-block !important;
+}
+
 header,
 footer {
     display: none !important;
@@ -16,8 +20,19 @@ h3, summary {
     padding: 0;
 }
 
+summary {
+    padding-top: 2em;
+}
+
 h1 {
     font-size: 14pt;
+    border-bottom: 3pt solid;
+    border-bottom-color: black;
+    padding-bottom: 2pt;
+}
+
+h1::before {
+    content: "Non-Skating Official Guides: ";
 }
 
 h2, summary {
@@ -48,17 +63,6 @@ html {
     line-height: normal !important;
 }
 
-
-h1 {
-    border-bottom: 3pt solid;
-    border-bottom-color: black;
-    padding-bottom: 2pt;
-
-}
-
-h1::before {
-    content: "Non-Skating Official Guides: ";
-}
 
 dl {
     margin: 0;

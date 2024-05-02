@@ -10,6 +10,7 @@
       {
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [ zola just python312Packages.weasyprint inotify-tools pandoc corefonts ];
+          # See https://discourse.nixos.org/t/ensure-fonts-in-development-environment/20649/4
           FONTCONFIG_FILE = pkgs.makeFontsConf {
             fontDirectories = [ pkgs.corefonts ];
           };
@@ -17,4 +18,3 @@
       }
     );
 }
-
