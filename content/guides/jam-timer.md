@@ -29,7 +29,6 @@ You should assume that everything else we discuss either follows as a direct con
   - [Section 1.1, Timing](https://rules.wftda.com/01_params.html#timing).
   - [Casebook Section 4.2.3, Interfering with the Flow of the Game](https://rules.wftda.com/casebook/04_c_penalties.html#interfering-with-the-flow-of-the-game).
 - [WFTDA Officiating Procedures](https://static.wftda.com/officiating/wftda-officiating-procedures.pdf)
-  - Be aware that this document has not been updated since 2017. Where it conflicts with the Rules, such as in regard to the length of an Overtime Jam lineup period, the Rules override.
 - [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)
 - [WFTDA Risk Management Guidelines](https://static.wftda.com/insurance/wftda-risk-management-guidelines.pdf)
   - Be aware of the definitions of zones and safety requirements, located on pages 6-8. These definitions can assist you in determining when an unsafe situation occurs that would require you to stop gameplay.
@@ -106,8 +105,9 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 **Starting state:** ⌚ Period Clock: Stopped, ⌚ Jam Clock:  Stopped or timing Team Time Out
 
-2. Blow a Rolling Whistle cue to start a lineup period.
+2. Blow a Rolling Whistle cue.
 3. Reset (if needed) and start the Jam Clock to time the lineup period.
+    - If you are resuming from a time out, note that the scoreboard should _not_ start a lineup period. It will continue timing the stoppage of play (Officiating Procedures 4.8). Add 30 seconds to the time displayed when you give the Rolling Whistle cue to find the latest time at which the jam can start.
 4. (Optional) Give the non-standard verbal cue “Next whistle starts the jam”.
 5. Complete the pre-jam checks during the lineup period.
 6. If teams are in position and officials are in position and ready (including you), go _directly_ to issuing the Five Seconds verbal cue and hand signal. You _may_ allow the lineup period to extend up to the standard 30 seconds if needed, with the Five Seconds cue given at 00:25. (See [Rules 1.1](https://rules.wftda.com/01_params.html#timing))
@@ -154,14 +154,13 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 
 **Ending state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
-
 ---
 
 **At the end of the game,** the Jam Timer executes the following steps.
 
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped
 
-1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (Note: this is specified under “Rolling Whistle” in the Officiating Cues, Codes, and Signals document, not in the Rules).
+1. Wait up to 30 seconds after the end of the final Jam for a team to request an Official Review. If teams do not have an Official Review or advise the Head Referee that they do not wish to use it, you do not need to continue waiting. (This is specified in Officiating Procedures 2.6 and under “Rolling Whistle” in the Officiating Cues, Codes, and Signals document).
 2. Wait for the Jam Referees to confer with their scorekeepers to validate final scores and make any adjustments to the final jam needed ([Rules 3.5](https://rules.wftda.com/singlehtml/index.html#errors-in-scoring-score-reporting)).
 3. Blow a Rolling Whistle to indicate the end of the game.
 
@@ -174,7 +173,7 @@ In each of the sequences below, we'll call out what your two clocks are doing bo
 **Starting state**: ⌚ Period Clock: Stopped, ⌚ Jam Clock: Stopped or timing Team Time Out
 
 1. Ensure Watch 1 (the period clock backup) is stopped immediately at the fourth whistle of the first set of four whistle blasts that marked the stoppage of play.
-1. Perform the appropriate ongoing visual cue for the type of play stoppage. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)).
+1. Perform the appropriate ongoing visual cue for the type of play stoppage while positioned on or next to the Pivot Line. (See [WFTDA Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf)). You may stop performing the visual cue once the scoreboard shows the correct type of play stoppage (Officiating Procedures 4.3-4). 
 1. Verify the scoreboard period clock and communicate any required adjustments to the scoreboard operator. See under **Correcting the period clock**.
 3. At the conclusion of the stoppage of play, execute the steps under **Before each jam that does not directly follow another jam**.
 
@@ -280,7 +279,7 @@ All profanity merits a Misconduct penalty in JRDA games, even if non-directed. S
 
 ### Final 30 Seconds of the Period
 
-There are special rules for what happens if a jam ends with 30 seconds or fewer remaining on the Period Clock. In this situation, the Period Clock will reach zero before play would begin. A jam should not start in this situation ([Rules 1.1](https://rules.wftda.com/01_params.html#timing)), _unless_ a Time Out or Official Review is called.
+There are special rules for what happens if a jam ends with 30 seconds or fewer remaining on the Period Clock. In this situation, the Period Clock would run out before the Lineup Clock reaches 30 seconds or simultaneously with it. A jam should not start in this situation ([Rules 1.1](https://rules.wftda.com/01_params.html#timing)), _unless_ a Time Out or Official Review is called. See also Officiating Procedures 2.7.
 
 If a Team Time Out or Official Review is called before the expiration of the Period Clock, you’ll start a new jam following that stoppage of play like any other. The period clock will resume at the jam-starting whistle.
 
@@ -313,6 +312,8 @@ When a Time Out or Official Review is requested and all preconditions are met:
 1. Blow four short whistle blasts to signal stoppage of the period clock.
 1. Stop your Period Clock.
 1. If this is a Team Time Out, reset your Jam Clock and start timing the Time Out as a backup to the scoreboard.
+1. If there was any substantive delay between the request for the time out and it being granted, adjust the Period Clock to the time when the time out was requested. In particular, if the Period Clock expired between those two points and time, it should be restored to the former. (See Officiating Procedures 4.7).
+1. Communicate any changes to the Period Clock to the Scoreboard Operator.
 1. Stand at the Pivot Line and give the appropriate verbal cue and hand signal for the type of play stoppage (see the [Officiating Cues, Codes, and Signals](https://static.wftda.com/officiating/wftda-officiating-cues-codes-and-signals.pdf) document, pages 16-17). Make sure that the scoreboard operator can see your hand cues.
 1. If a Team Time Out was called, wait for the scoreboard to display 1:00. Otherwise, wait for the Head Referee to indicate that you can restart play. There is no standard signal for this. Many referees use a hand cue, pointing an index finger upwards and rotating it rapidly.
 1. If you prefer or if your local convention expects it, you may use non-standard cues during the resumption of play to ensure that skaters clearly understand your actions. Some Jam Timers find this helps in situations where skaters misinterpret the rolling whistle as a jam-start whistle.
@@ -343,17 +344,22 @@ The jam clock may be corrected _without_ a stoppage of play, provided that
 1. The time is off by more than 3 seconds.
 1. No more than 15 seconds of gameplay have elapsed.
 
-(See WFTDA Officiating Procedures, section 3.2).
+(See WFTDA Officiating Procedures, section 3.1).
 
 This process occurs rarely and will generally require the jam timer to approach the scoreboard, or for the scoreboard operator to observe and correct a malfunction independently.
 
 ### Overtime Jams
 
-The rules for Overtime Jams are presented in [Rules 1.5.1](https://rules.wftda.com/01_params.html#overtime).
+The rules for Overtime Jams are presented in
 
-As Jam Timer, there is nothing you need to do differently for an Overtime Jam relative to a normal Jam. Since there is no Lead Jammer in an Overtime Jam, all Overtime Jams run for two minutes and are terminated by the Jam Timer.
+There are two key diffferences in overtime play for the Jam Timer.
 
-However, it’s important to be aware that previous editions of the Rules specified different timing for Overtime Jams: Overtime Jams had one-minute lineup periods. Because Overtime Jams are so rare, many officials do not get to practice them and may recall the older rules.
+1. Because no Lead Jammer is assigned, all Overtime Jams run for two minutes and are terminated by the Jam Timer. ([Rules 1.5.1](https://rules.wftda.com/01_params.html#overtime)).
+1. The lineup period for every Overtime Jam (including the lineup period between the final jam of regular play and the first Overtime Jam) is 60 seconds. (Officiating Procedures 2.8 and 3.3).
+
+The procedure for transitioning from regular play into an Overtime Jam is described in Officiating Procedures 2.8: after the last jam of regular play, transition to overtime play with a 1-minute lineup period after the Head Referee advises teams that overtime play will begin.
+
+Be aware that previous editions of the Rules explicitly specified one-minute lineup periods for Overtime Jams. The current edition of the Rules does not, but Officiating Procedures do. This inconsistency may cause confusion about what's expected, which is one reason it's valuable for the Head Referee to convey the message of upcoming overtime to both teams.
 
 ### Sudden Scoring (JRDA Only)
 
@@ -384,7 +390,9 @@ See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorroll
 
 A continuation entails a new lineup period (**Before each jam that does not directly follow another jam**), with all of the same players and same positions. The jam number remains the same. The continuation runs for the _balance of the original jam clock_. If the jam was called off due to injury at 1:15, the resumed jam may run for up to 0:45.
 
-Before initiating a continuation, the officials should inform the coaches and allow the Lead Jammer the opportunity to opt out of invoking the continuation rule. (See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4). Some teams indicate during the captains and coaches meeting prior to the game that they will opt out in all cases, meaning that this rule will not take effect.
+Before initiating a continuation, the officials should inform the coaches and allow the Lead Jammer the opportunity to opt out of invoking the continuation rule. (See [JRDA Officiating Procedures and Staffing Guidelines](https://www.juniorrollerderby.org/officiating-procedures), section 4).
+
+Some teams indicate during the captains and coaches meeting prior to the game that they will opt out in all cases, meaning that this rule will not take effect and obviating the need to explicitly consult them.
 
 Be aware that Injury Call-Offs are a relatively new rule that is not applied often, due to its limited circumstances of use. Not all officials may know the fine points of the rule.
 
