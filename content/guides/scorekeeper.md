@@ -39,8 +39,10 @@ For example, a jam might go like this:
 > Jam Referee Blue: *holds up three fingers*<br />
 > Scorekeeper Blue: *holds up three fingers* Three points Blue.<br />
 > Scoreboard Operator: Three points Blue, got it.<br />
+> Scorekeeper Blue: *makes eye contact with Jam Referee Blue while signaling*.<br />
+> Jam Referee Blue: *nods*<br />
 > Referees: *signals star pass*<br />
-> Scorekeeper Red: Star pass red. New jammer is Red 052.<br />
+> Scorekeeper Red: *Signals star pass*. Star pass red. New jammer is Red 052.<br />
 > Scoreboard Operator and Scorekeeper Blue: Star pass red, got it.<br />
 > Jam Referee Blue: *holds up four fingers*<br />
 > Scorekeeper Blue: Four points Blue.<br />

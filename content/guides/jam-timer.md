@@ -17,8 +17,6 @@ As with all officiating positions in roller derby, it’s important to be aware 
 - How the rules are interpreted by the community.
 - Common practices that are not rule-driven.
 
-Read through [Section 5, Officiating](https://rules.wftda.com/05_officiating.html#officiating-staffing) of the Rules. Note that the words “Jam Timer” do not appear. The vast majority of what we do with Jam Timing is an *implementation* of the WFTDA Rules, but is not explicitly specified by the WFTDA Rules.
-
 You may experience variation in Jam Timing procedures from region to region and league to league. That’s one reason why it’s important to understand the rules that govern your work as a Jam Timer and _why_ you take specific actions that draw from convention or best practice. Throughout this guide, we’ll cite the rules and other officiating documents to support specific requirements for the Jam Timer position.
 
 You should assume that everything else we discuss either follows as a direct consequence of the rules, or is _convention_ directed towards safely, clearly, and consistently applying the rules. Where we present a convention that we believe to be less widespread, we’ll explicitly call it out; however, bear in mind that your region’s officiating conventions may be different from ours in ways we do not know.
