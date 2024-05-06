@@ -24,6 +24,8 @@ Scorekeeping, in particular, is driven by the needs of the WFTDA Statsbook.
 
 ## The Basic Routine
 
+Scorekeepers are typically seated on each side of the scoreboard operator, but the location of the score table varies from venue to venue.
+
 Watch your Jam Referee and Jammer (in that order) during each jam. Follow the Statsbook Manual's instructions to record points and jam events (Lost Lead, Lead, Call, Injury, No Initial; Star Passes). **This guide deliberately does not cover the paperwork, because the Statsbook Manual is the authority**.
 
 When each event happens, or when points are awarded, verbally communicate it to the Scoreboard Operator. The Scoreboard Operator will often echo this back to you to indicate that they received it.

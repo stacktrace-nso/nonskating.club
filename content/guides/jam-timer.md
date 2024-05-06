@@ -1,6 +1,6 @@
 ---
 title: "Jam Timer"
-date: "2024-04-30"
+date: "2024-05-05"
 template: "guide.html"
 extra:
     author: "David Reed / Stacktrace"
