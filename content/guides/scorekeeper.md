@@ -69,6 +69,12 @@ Why call out these specific pieces of information?
 
 ### End-of-Period and End-of-Game Responsibilities
 
+At the end of each period, the scorekeeper should perform a series of steps to validate their points and paperwork.
+
+1. The jam referees should visit the score table to confirm the recording of the last jam's score. Points may be corrected only for the final jam.
+2. The scorekeeper totals all of the Trip columns to the bottom row, and verifies that the sum of the Trip columns is equal to the sum of the Jam Total column. If the game is over, also verify that this sum plus the carried-over Period 1 score is equal to the displayed final score.
+3. The scorekeeper calculates the Period 2 total to provide to the Head NSO for the IGRF.
+
 ## Communication
 
 ### Jam Referee
