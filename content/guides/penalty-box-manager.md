@@ -9,6 +9,16 @@ extra:
 
 The Penalty Box manager role is a conundrum: 95% of the time, the PBM simply directs traffic and supports Penalty Box Timers. The other 5% of the time, the PBM smoothly applies complex rule edge cases under pressure and addresses unexpected situations for which there's no clear procedure.
 
+PBM is easy 95% of the time and **white-knuckled rules edge cases** the other 5%. Make sure you know the rules for those 5% cases. That's your real job.
+
+- All jammer swap scenarios, including double penalties and A-B-A swaps.
+- How to run a foul out.
+  - Juniors? Who are the chaperones?
+- When and how to issue an Illegal Procedure or Misconduct in the box.
+- How to handle queues.
+- A skater is bleeding in my box. What do I do?
+  
+Spend your 95% time **supporting PBTs**, who are often less experienced.
 ## Basic Routine
 
 Work from the center of the penalty box, directly behind the two jammer seats. Most penalty box managers work standing, but you are free to sit. You can PBM in a face mask. Some box managers choose to wear colored armbands to reflect team colors. You will have at least two stopwatches.
@@ -152,4 +162,118 @@ Providing support, sharing incoming skater information
 
 Incoming double penalties
 Outgoing box penalties
+
+---
+
+# Scenario Practice
+
+- White Jammer sits.
+- Red Jammer sits at 25 seconds. You release the White Jammer.
+- White Jammer cuts the track. They return at 15 seconds into Red Jammer's penalty.
+
+**What do you do?**
+
+<!--
+
+Nothing. White Jammer's new penalty cannot cancel out Red Jammer's prior penalty, which was already shortened for White Jammer's first penalty. Red Jammer stands and serves their remaining 10 seconds (to finish out a 25 second penalty). White Jammer serves a full 30 seconds. There is no jammer on the track for 10 seconds.
+
+-->
+
+---
+
+# Scenario Practice
+
+- White Blocker sits.
+- Your PLT signals "seven". 
+- You confirm with your PBT and advise the skater they have fouled out.
+- White Pivot sits.
+- White Blocker approaches the box.
+
+**What do you do? What do you need to know to decide?**
+
+<!--
+
+It depends where in their penalty the first white blocker is. If they've been allowed to stand, you can seat the new White Blocker "behind" them, even if they are no longer in the penalty box. Whether or not they are currently in the penalty box, if their penalty is in the first 20 seconds, that seat is occupied and the new blocker should be placed in queue.
+
+-->
+
+---
+
+# Scenario Practice
+
+- White Blocker sits.
+- After 10 seconds, you notice that White Blocker is bleeding profusely from their ankle.
+
+**What do you do?**
+
+<!-- 
+
+1. Stop the jam and call an Official Time Out.
+2. Summon the medics
+3. Request a referee locate track personnel with hazardous cleanup supplies.
+4. Advise PLTs of injured skater number so they can record a (3) notation.
+5. Get a substitute seated in the box.
+-->
+
+---
+
+# Scenario Practice
+
+- Red Jammer sits.
+- Red Jammer removes their mouth guard.
+- Red Jammer takes off their helmet to scratch their head.
+
+**What do you do?**
+
+<!--
+
+Issue an Illegal Procedure penalty to the Red Jammer. Communicate this with a circled I and the skater's number on your whiteboard to the center.
+
+-->
+
+---
+
+# Scenario Practice
+
+- Blue Blocker enters the Penalty Box at high speed. They lose control and fall over, crashing into the box seats and causing the seats to impact a Penalty Box Timer.
+
+**What do you do?**
+
+<!-- 
+
+1. Stop the jam
+1. Call an Official Time Out
+1. If necessary, call the EMTs to attend to the PBT.
+1. Assess a Misconduct penalty to the Blue Blocker
+1. Refer the Blue Blocker to the Head Referee for expulsion.
+
+See Casebook Scenario C4.5.B
+
+-->
+
+---
+
+# Excellence in Communication
+
+- **Help your PBTs**.
+  - Announce incoming skaters as you direct traffic. "Blue blocker coming in... Blue 23 entering as blocker." Your head is up; your PBTs' are not.
+  - Be ready to take a skater on one of your clocks if PBTs are overwhelmed.
+- Manage communication of 5, 6, 7 penalties so you're 100% sure of foul-outs.
+  - Ask PBTs to tell you at 5, 6, 7 for a skater. Be ready to confirm with the PLT.
+  - Call an Official Time Out if counts are off.
+- Watch for double-penalties coming in from referees.
+- Know how to use your whiteboard.
+  - Communicate penalties issued in the box.
+  - Manage the queue and have skaters report.
+  - Record in-progress penalties at halftime.
+
+---
+
+# Resources
+
+- [WFTDA Online Learning Course: Intro to Penalty Box Training for Officials](https://learning.wftda.org/courses/intro-to-penalty-box-training-for-officials)
+- [WFTDA Rules Section 4.4 and 4.5](https://rules.wftda.com/04_penalties.html#penalties-enforcement)
+- [WFTDA Casebook Section 4.4 and 4.5](https://rules.wftda.com/casebook/04_c_penalties.html)
+- [WFTDA Officiating Procedures](https://community.wftda.org/resources/document-libraries/competition-documents#officiating) covers whiteboard use.
+- [WFTDA Officiating Cues, Codes, and Signals](https://community.wftda.org/resources/document-libraries/competition-documents#officiating) covers cues.
 

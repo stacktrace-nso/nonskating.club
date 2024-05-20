@@ -17,6 +17,20 @@ Special facets about the venue.
 
 Escalation paths. What do I want you to do if there's an issue?
 
+All Captains and Coaches
+
+- Parent chaperones. We need legal name and location, and I need to know what they look like. This information will be re-confirmed prior to each game.
+- Penalty box - benches are wobbly
+- 
+
+Captains and Coaches
+
+- Confirm captain and alternate
+- Confirm coaching staff + 3rd base coach
+- Confirm parent chaperones
+- Cueing in the box
+- Any other accommodations needed
+
 ## Not Having Enough Officials
 
 A full NSO crew is nine or ten people, depending on whether the Head NSO works a role.
