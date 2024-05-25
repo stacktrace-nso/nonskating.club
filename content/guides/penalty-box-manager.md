@@ -9,7 +9,7 @@ extra:
 
 ## Introduction
 
-The Penalty Box Manager role comprises support and traffic direction 95% of the time and white-knuckled rules edge cases the other 5%. For most of the game, the PBM simply directs traffic and supports Penalty Box Timers. The other 5% of the time, the PBM smoothly applies complex rule edge cases under pressure and addresses unexpected situations for which there's no clear procedure.
+The Penalty Box Manager role comprises support and traffic direction 95% of the time. For most of the game, the PBM directs traffic, times jammer penalties, and supports Penalty Box Timers. The other 5% of the time, the PBM smoothly applies complex rule edge cases under pressure and addresses unexpected situations for which there's no clear procedure.
 
 The Penalty Box Manager is not required to complete paperwork. However, awareness of the Penalty Box Timer paperwork is important for the role.
 
@@ -20,9 +20,9 @@ You'll find (and we note below) some variation in the division of duties between
 ### Resources
 
 - [WFTDA Online Learning Course: Intro to Penalty Box Training for Officials](https://learning.wftda.org/courses/intro-to-penalty-box-training-for-officials)
-- [WFTDA Rules Section 4.4 and 4.5](https://rules.wftda.com/04_penalties.html#penalties-enforcement)
+- [WFTDA Rules Section 4.4 and 4.5, Penalty Enforcement](https://rules.wftda.com/04_penalties.html#penalties-enforcement)
 - [WFTDA Casebook Section 4.4 and 4.5](https://rules.wftda.com/casebook/04_c_penalties.html)
-- [WFTDA Officiating Procedures](https://community.wftda.org/resources/document-libraries/competition-documents#officiating) covers whiteboard use.
+- [WFTDA Officiating Procedures](https://community.wftda.org/resources/document-libraries/competition-documents#officiating) covers foulouts, queue management, assessing penalties, and other topics.
 - [WFTDA Officiating Cues, Codes, and Signals](https://community.wftda.org/resources/document-libraries/competition-documents#officiating) covers cues.
 
 
@@ -30,9 +30,7 @@ You'll find (and we note below) some variation in the division of duties between
 
 The Penalty Box Manager uses (at least) two stopwatches for timing penalties. Most host leagues provide stopwatches for the penalty box staff, although many PBMs bring their own. The PBM is responsible for the Penalty Box Whiteboard, a handheld whiteboard that is divided into halves by team, and the markers and erasers for that board. These items are supplied by the host league.
 
-The penalty box is equipped with colored swatches (often fabric, felt, or tape) to mark the seats belonging to each team.
-
-The Penalty Box Manager may choose to wear colored armbands to associate their hand signals with each team's side of the box.
+The penalty box is equipped with colored swatches (often fabric, felt, or tape) to mark the side of the penalty box belonging to each team. The Penalty Box Manager may choose to wear colored armbands to associate their hand signals with each team's side of the box.
 
 ## The Basic Routine
 
@@ -44,6 +42,8 @@ Direct the skater to an appropriate seat in the penalty box. (Officiating Proced
 
 Visual cues used to direct skaters are not standardized. Most Penalty Box Managers use one arm to signal each side of the box (i.e., the skaters from one team). The arm is raised to draw the skater's attention and then lowered to point to the desired seat, repeatedly. 
 
+An example series of events might look like this:
+
 > Referee: *short whistle* Black 409, low block!<br />
 > Penalty Box Manager: *raises arm on Black side of the penalty box*<br />
 > Black 409: *Leaves track and skates towards box*<br />
@@ -52,10 +52,9 @@ Visual cues used to direct skaters are not standardized. Most Penalty Box Manage
 > Penalty Box Manager: *directs Black 409 to a seat*<br />
 > Penalty Box Timer: *begins timing Black 409 and completes data entry*<br />
 
-
 The Penalty Box Manager is responsible for timing penalties for the two jammers seated directly in front of them. However, the Penalty Box Timer for the relevant team actually records the penalty on their paperwork. 
 
-Penalties assessed right at the end of the jam often results in surprise reports. 
+Penalties assessed right at the end of the jam often results in surprise reports. XXX
 
 ### Supporting Penalty Box Timers
 
@@ -79,7 +78,7 @@ The intricacies of some unusual jammer swaps are not universally understood. For
 
 ### Managing the Queue
 
-When a team's penalty box is filled with two seated skaters, additional incoming skaters should be returned to the track using the "<Color> <Number>, return to the track" cue. (Rules 4.4.1). This cue is referenced in Officiating Procedures 7.3.1 but is not defined in the Cues, Codes, and Signals document. The hand signal is a "pushing" gesture with an open palm and a horizontally extended arm. 
+When a team's penalty box is filled with two seated skaters, additional incoming skaters should be returned to the track using the "\<Color\> \<Number\>, return to the track" cue. (Rules 4.4.1). This cue is referenced in Officiating Procedures 7.3.1 but is not defined in the Cues, Codes, and Signals document. The hand signal is a "pushing" gesture with an open palm and a horizontally extended arm. 
 
 When you place a skater in queue, write their number and position on the side of your whiteboard for their team. As soon as a seat opens in the box, hold your whiteboard up to have referees or center-based NSOs direct the skater to report to the box. Continue to hold the whiteboard until the skater reports. (Officiating Procedures 7.3).
 
@@ -189,7 +188,7 @@ is not fine; that's coaching.
 
 ### What to Check Before the Game
 
-- Ensure that colored badges, if present, are located on the correct side of the penalty box. Each team's seats should be _opposite_ to their bench.
+- Ensure that colored badges, if present, are located on each side of the penalty box. It is typical, but not mandatory, for each team's seats to be on the side of the penalty box opposite their team bench.
 - Know who the captains are. You may need to assess a penalty to the captain in some rare circumstances.
 
 In JRDA, know who the parent chaperones are and how you will direct fouled-out skaters to them. Your Head NSO or Penalty Lineup Tracker may assist by pointing out the chaperone or locating htem during the foulout process. Discuss with those officials to establish how you'll handle this process.
