@@ -9,13 +9,13 @@ extra:
 
 ## Introduction
 
-The Penalty Box Manager role comprises support and traffic direction 95% of the time. For most of the game, the PBM directs traffic, times jammer penalties, and supports Penalty Box Timers. The other 5% of the time, the PBM smoothly applies complex rule edge cases under pressure and addresses unexpected situations for which there's no clear procedure.
+For perhaps 95% of the game, the Penalty Box Manager directs traffic, times jammer penalties, and supports Penalty Box Timers. The other 5% of the time, the PBM smoothly applies complex rule edge cases and addresses challenging situations while under intense pressure. The Penalty Box Manager role requires deep knowledge of rules and practice, excellent track awareness, and calm nerves.
 
 The Penalty Box Manager is not required to complete paperwork. However, awareness of the Penalty Box Timer paperwork is important for the role.
 
 As is the case with many nonskating roles, the Penalty Box Manager role appears nowhere in the Rules of Flat Track Roller Derby, nor does it appear in the Officiating Procedures. The rules and procedures require that _a Penalty Box Official_ perform various duties. The rules are conventionally implemented by staffing one Penalty Box Manager and two Penalty Box Timers. It is legal to staff the penalty box differently, provided that the officials are able to execute duties specified in the rules. 
 
-You'll find (and we note below) some variation in the division of duties between the Penalty Box Manager and Timers.
+You'll find (and we note below) some variation in the division of duties between the Penalty Box Manager and Timers. It is critical for officials working these positions to understand the rules that underlie their practices, as well as the "safe, fair, and fun" qualities of gameplay that they support.
 
 ### Resources
 
