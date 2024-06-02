@@ -13,9 +13,11 @@ For perhaps 95% of the game, the Penalty Box Manager directs traffic, times jamm
 
 The Penalty Box Manager is not required to complete paperwork. However, awareness of the Penalty Box Timer paperwork is important for the role.
 
-As is the case with many nonskating roles, the Penalty Box Manager role appears nowhere in the Rules of Flat Track Roller Derby, nor does it appear in the Officiating Procedures. The rules and procedures require that _a Penalty Box Official_ perform various duties. The rules are conventionally implemented by staffing one Penalty Box Manager and two Penalty Box Timers. It is legal to staff the penalty box differently, provided that the officials are able to execute duties specified in the rules. 
+As is the case with many nonskating roles, the Penalty Box Manager role appears nowhere in the Rules of Flat Track Roller Derby, nor does it appear in the Officiating Procedures. The rules and procedures require that _a Penalty Box Official_ perform various duties. The rules are conventionally implemented by staffing one Penalty Box Manager and two Penalty Box Timers. 
 
-You'll find (and we note below) some variation in the division of duties between the Penalty Box Manager and Timers. It is critical for officials working these positions to understand the rules that underlie their practices, as well as the "safe, fair, and fun" qualities of gameplay that they support.
+It is legal to staff the penalty box differently, provided that the officials are able to execute duties specified in the rules. That said, there are good reasons for why conventional staffing looks like this. You'll also find some variation in the division of duties between the Penalty Box Manager and Timers. We discuss some of the drivers of these conventions and differences below.
+
+It is critical for officials working these positions to understand the rules that underlie their practices, as well as the "safe, fair, and fun" qualities of gameplay that they support.
 
 ### Resources
 
