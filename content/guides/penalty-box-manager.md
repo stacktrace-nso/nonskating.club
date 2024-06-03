@@ -150,6 +150,33 @@ If a skater fouls out but would otherwise be placed in the queue, do not return 
 
 Be aware that not all Penalty Box Timers have performed a foulout. You may need to remind Box Timers to continue timing the empty chair after the skater has stood and moved to the side of the box.
 
+
+
+## Penalty Box Managing in Depth
+
+### What to Check Before the Game
+
+- Ensure that colored badges, if present, are located on each side of the penalty box. It is typical, but not mandatory, for each team's seats to be on the side of the penalty box opposite their team bench.
+- Know who the captains are. You may need to assess a penalty to the captain in some rare circumstances.
+
+In JRDA, know who the parent chaperones are and how you will direct fouled-out skaters to them. Your Head NSO or Penalty Lineup Tracker may assist by pointing out the chaperone or locating them during the foulout process. Discuss with those officials to establish how you'll handle this process. XXX Also discuss substitutions
+
+Set expectations for PBTs on directing traffic
+Sync with PLTs XXX
+
+### At Halftime
+
+- Record the color, number, position, and current penalty time for each skater currently in the box on your penalty box whiteboard. (Officiating Procedures 7.6)
+
+### At the start of period 2
+
+- Ensure that all skaters are seated. Hold up your whiteboard to advise the referees and Penalty Lineup Trackers who needs to report, just as with a queue situation after a jam ends. 
+
+### At the end of the game
+
+- Wait until the Jam Timer blows rolling, and then release skaters.
+- If needed, assist Penalty Box Timers in readiness to provide penalty totals.
+
 ### Injuries in the Box
 
 Teams may substitute skaters in the box between jams. See [Rules 4.4](https://rules.wftda.com/04_penalties.html#enforcing-penalties) and [Casebook C4.4.A](https://rules.wftda.com/casebook/04_c_penalties.html#enforcing-penalties). The substitute should arrive at the box to release the seated skater; the skater should not leave without a substitute in the box unless an Official Time Out is in effect to facilitate the substitution. Substitution may be done in response to injury or to equipment failure, such as a broken skate. Ensure that the relevant Penalty Lineup Tracker is aware of the substitution. Substitutions may not occur during play.
@@ -228,31 +255,6 @@ XXX reference WFTDA course
 It's important to be aware that penalized skaters, as well as other participants like coaches, team benches, and announcers or hot microphones, may be able to hear conversation in the penalty box.
 
 Even while (or especially while!) the penalty flow is limited and you're paying attention to the game, avoid commenting on the game or the performance of teams and skaters. Doing so may create the impression of bias, favor, or lack of professionalism, even if that impression is inaccurate.
-
-## Penalty Box Managing in Depth
-
-### What to Check Before the Game
-
-- Ensure that colored badges, if present, are located on each side of the penalty box. It is typical, but not mandatory, for each team's seats to be on the side of the penalty box opposite their team bench.
-- Know who the captains are. You may need to assess a penalty to the captain in some rare circumstances.
-
-In JRDA, know who the parent chaperones are and how you will direct fouled-out skaters to them. Your Head NSO or Penalty Lineup Tracker may assist by pointing out the chaperone or locating them during the foulout process. Discuss with those officials to establish how you'll handle this process. XXX Also discuss substitutions
-
-Set expectations for PBTs on directing traffic
-Sync with PLTs XXX
-
-### At Halftime
-
-- Record the color, number, position, and current penalty time for each skater currently in the box on your penalty box whiteboard. (Officiating Procedures 7.6)
-
-### At the start of period 2
-
-- Ensure that all skaters are seated. Hold up your whiteboard to advise the referees and Penalty Lineup Trackers who needs to report, just as with a queue situation after a jam ends. 
-
-### At the end of the game
-
-- Wait until the Jam Timer blows rolling, and then release skaters.
-- If needed, assist Penalty Box Timers in readiness to provide penalty totals.
 
 ### Referees
 
