@@ -82,6 +82,8 @@ An example series of events might look like this:
 > Penalty Box Manager: White 010, done!<br />
 > White 010: *Leaves the box*<br />
 > Penalty Box Manager: *directs Black 98 to a seat*<br />
+> Penalty Box Manager: White 010 served 30 seconds as jammer<br />
+> Penalty Box Timer (White): *records White 010's full-length service*<br />
 > ...
 
 The penalty box staff are constantly managing multiple processes. Skaters enter and leave the box; new penalties are called on each team; more complex events (discussed below) take place in the box itself. Multitasking, remaining calm under pressure, and supporting the other penalty box officials are all critical capabilities for the Penalty Box Manager.
@@ -94,7 +96,9 @@ Penalties assessed right at the end of the jam often results in surprise reports
 
 The Penalty Box Timers are almost always busier than the Penalty Box Manager, with responsibility for two seats and up to four skaters each. Supporting the Penalty Box Timers is a key part of the PBM role.
 
-XXX
+Continuously feeding Penalty Box Timers information, as described above, is the most important support mechanism. When you as PBM direct traffic and allow PBTs to focus on their timers, paperwork, and cueing, they can be most effective.
+
+When working with less-experienced Penalty Box Timers, you can also provide support in high-volume situations. Take a third seated skater on one of your timers.
 
 ### Jammer Penalties and Jammer Swaps
 
