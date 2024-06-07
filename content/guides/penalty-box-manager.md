@@ -191,7 +191,7 @@ Record the color, number, position, and current penalty time for each skater cur
 
 Ensure that all skaters required in the box are seated. Hold up your whiteboard to advise the referees and Penalty Lineup Trackers who needs to report, just as with a queue situation after a jam ends. 
 
-### At the End of the Game
+#### At the End of the Game
 
 If any skaters are seated in the box, wait until the Jam Timer blows a rolling whistle (which indicates the end of the time during which an Official Review may be called). Then, release the seated skaters.
 
