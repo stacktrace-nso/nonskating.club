@@ -4,9 +4,11 @@ backend:
   repo: davidmreed/nonskating.club
   open_authoring: true
   branch: main
+  auth_scope: repo
 publish_mode: editorial_workflow
 media_folder: static
 media_library:
+  name: ""
   display_in_navigation: false
 collections:
   - name: 'guides'
